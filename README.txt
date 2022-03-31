@@ -1,5 +1,4 @@
-
-This assigmnet is for HTML documents!!!! also css assignments added
+This assigmnet is for HTML documents!!!! javscript assignments added
 welcome to the world
 you are a wonderfull person!!
 
